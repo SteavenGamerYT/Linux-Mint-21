@@ -6,3 +6,9 @@
 
 
 run upgrade.sh as root
+
+
+# Make all apps Appre in Mint Install using POP OS proprietary repos
+
+
+run repos.sh as root
