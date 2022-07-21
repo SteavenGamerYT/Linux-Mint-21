@@ -1,4 +1,4 @@
-# Linux MInt 21
+# Linux Mint 21
  From Linux Mint 20.3 to Linux Mint 21
 
 
